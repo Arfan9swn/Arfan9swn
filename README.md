@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Arfan9swn)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Arfan9swn&layout=compact&langs_count=5&hide_values=true&theme=bear)](https://github-stats-extended.vercel.app/api/top-langs?username=Arfan9swn&layout=compact&langs_count=5&hide_values=true&theme=bear)
